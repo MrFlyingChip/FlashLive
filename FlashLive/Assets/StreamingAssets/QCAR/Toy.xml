@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="police" size="100.000000 91.400002" />
+    <ImageTarget name="Reshetka" size="100.000000 104.509285" />
+    <ImageTarget name="Car" size="100.000000 104.509285" />
+  </Tracking>
+</QCARConfig>

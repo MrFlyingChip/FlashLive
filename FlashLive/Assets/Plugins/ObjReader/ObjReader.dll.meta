@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 637190b257a314b9595a86e2318b4c14
+labels:
+- ObjReader
+- obj
+- import
+- mesh
+- model
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

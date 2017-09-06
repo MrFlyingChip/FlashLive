@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="source_forbes_october_10_139_2015_russia" size="1000.000000 1319.186523" />
+    <ImageTarget name="ARAD" size="1000.000000 1003.933167" />
+  </Tracking>
+</QCARConfig>
